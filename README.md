@@ -103,8 +103,8 @@ I specialize in **CI/CD pipelines, Infrastructure as Code, container orchestrati
 ---
 
 ## 📫 Connect With Me
-- 🔗 LinkedIn: https://linkedin.com/in/yourprofile
-- 📧 Email: yourmail@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/saikiran-punnam
+- 📧 Email: punnamsaikiran2000@gmail.com
 - 🌍 Location: India
 
 ---
